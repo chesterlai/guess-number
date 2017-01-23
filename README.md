@@ -1,3 +1,5 @@
-use python to practice number\n
-the initial version comes from below link \n
-http://www.programgo.com/article/65591609612/ \n
+use python to practice number
+
+the initial version comes from below link 
+
+http://www.programgo.com/article/65591609612/ 
